@@ -7,7 +7,7 @@
 - 非专业技术人员，技术有限，和组内一名同事利用闲暇时间分工合作完成，过程中也寻求过程序的帮助，当然还存在N多bug，但也勉强够用
 
 ## 界面展示
-![adb.png](https://i.loli.net/2021/02/15/6DjeTxEGXBIliFb.png)
+![adb.png](https://i.loli.net/2021/02/15/6YE3DeH8ihk7zAf.png)
 
 ## 环境配置：
 python+adb
